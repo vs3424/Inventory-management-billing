@@ -1,0 +1,7 @@
+				INVOICE
+PID		Name	Quantity	PricePerItem	Price
+0001	Name1	4			5				20
+0003	Name3	5			40				200
+
+Total	220
+==================END OF INVOICE==================
